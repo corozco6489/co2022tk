@@ -1,0 +1,14 @@
+{
+  "name": "wt_62269",
+  "version": "1.0.0",
+  "description": "constructura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
